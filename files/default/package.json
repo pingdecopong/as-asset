@@ -1,0 +1,30 @@
+{
+  "name": "***",
+  "version": "0.0.1",
+  "description": "****",
+  "repository": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-bower-task": "*",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-yuidoc": "*",
+    "grunt-protractor-runner": "^2.0.0",
+    "grunt-ts": "*",
+    "grunt-tsd": "~0.2.0-beta.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-ie-launcher": "^0.1.5",
+    "karma-jasmine": "^0.3.5",
+    "karma-jasmine-ajax": "^0.1.12",
+    "karma-junit-reporter": "^0.2.2",
+    "karma-safari-launcher": "^0.1.1",
+    "karma-webdriver-launcher": "^1.0.1",
+    "typescript": "*",
+    "yuidocjs": "*"
+  }
+}
