@@ -2,10 +2,10 @@
 include_recipe '::default'
 
 #npmパッケージインストール
-bash 'npm install' do
+bash 'npm install --no-bin-links' do
   code <<-EOH
       cd #{node[:asset][:root_path]}
-      npm install
+      npm install --no-bin-links
   EOH
 end
 
